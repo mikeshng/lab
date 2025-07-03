@@ -27,13 +27,10 @@ For new add-on projects, please use the
 
 ## Current Projects
 
-- **dashboard**
-
-  OCM UI Dashboard
-
-- **vscode-extension** (Soon)
-
-  OCM VScode Extension (Soon)
+- **TBD**
+  TBD
+- **TBD**
+  TBD
 
 ## Onboarding a New Project
 
